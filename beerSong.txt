@@ -1,0 +1,599 @@
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 19:29:22) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+============== RESTART: D:/НАВЧАННЯ/пітон(початки)/beerSong.py ==============
+99 bootles of beer on the wall.
+99 of beer.
+Take one down.
+Pass it around.
+98 bootles of beer on the wall.
+
+98 bootles of beer on the wall.
+98 of beer.
+Take one down.
+Pass it around.
+97 bootles of beer on the wall.
+
+97 bootles of beer on the wall.
+97 of beer.
+Take one down.
+Pass it around.
+96 bootles of beer on the wall.
+
+96 bootles of beer on the wall.
+96 of beer.
+Take one down.
+Pass it around.
+95 bootles of beer on the wall.
+
+95 bootles of beer on the wall.
+95 of beer.
+Take one down.
+Pass it around.
+94 bootles of beer on the wall.
+
+94 bootles of beer on the wall.
+94 of beer.
+Take one down.
+Pass it around.
+93 bootles of beer on the wall.
+
+93 bootles of beer on the wall.
+93 of beer.
+Take one down.
+Pass it around.
+92 bootles of beer on the wall.
+
+92 bootles of beer on the wall.
+92 of beer.
+Take one down.
+Pass it around.
+91 bootles of beer on the wall.
+
+91 bootles of beer on the wall.
+91 of beer.
+Take one down.
+Pass it around.
+90 bootles of beer on the wall.
+
+90 bootles of beer on the wall.
+90 of beer.
+Take one down.
+Pass it around.
+89 bootles of beer on the wall.
+
+89 bootles of beer on the wall.
+89 of beer.
+Take one down.
+Pass it around.
+88 bootles of beer on the wall.
+
+88 bootles of beer on the wall.
+88 of beer.
+Take one down.
+Pass it around.
+87 bootles of beer on the wall.
+
+87 bootles of beer on the wall.
+87 of beer.
+Take one down.
+Pass it around.
+86 bootles of beer on the wall.
+
+86 bootles of beer on the wall.
+86 of beer.
+Take one down.
+Pass it around.
+85 bootles of beer on the wall.
+
+85 bootles of beer on the wall.
+85 of beer.
+Take one down.
+Pass it around.
+84 bootles of beer on the wall.
+
+84 bootles of beer on the wall.
+84 of beer.
+Take one down.
+Pass it around.
+83 bootles of beer on the wall.
+
+83 bootles of beer on the wall.
+83 of beer.
+Take one down.
+Pass it around.
+82 bootles of beer on the wall.
+
+82 bootles of beer on the wall.
+82 of beer.
+Take one down.
+Pass it around.
+81 bootles of beer on the wall.
+
+81 bootles of beer on the wall.
+81 of beer.
+Take one down.
+Pass it around.
+80 bootles of beer on the wall.
+
+80 bootles of beer on the wall.
+80 of beer.
+Take one down.
+Pass it around.
+79 bootles of beer on the wall.
+
+79 bootles of beer on the wall.
+79 of beer.
+Take one down.
+Pass it around.
+78 bootles of beer on the wall.
+
+78 bootles of beer on the wall.
+78 of beer.
+Take one down.
+Pass it around.
+77 bootles of beer on the wall.
+
+77 bootles of beer on the wall.
+77 of beer.
+Take one down.
+Pass it around.
+76 bootles of beer on the wall.
+
+76 bootles of beer on the wall.
+76 of beer.
+Take one down.
+Pass it around.
+75 bootles of beer on the wall.
+
+75 bootles of beer on the wall.
+75 of beer.
+Take one down.
+Pass it around.
+74 bootles of beer on the wall.
+
+74 bootles of beer on the wall.
+74 of beer.
+Take one down.
+Pass it around.
+73 bootles of beer on the wall.
+
+73 bootles of beer on the wall.
+73 of beer.
+Take one down.
+Pass it around.
+72 bootles of beer on the wall.
+
+72 bootles of beer on the wall.
+72 of beer.
+Take one down.
+Pass it around.
+71 bootles of beer on the wall.
+
+71 bootles of beer on the wall.
+71 of beer.
+Take one down.
+Pass it around.
+70 bootles of beer on the wall.
+
+70 bootles of beer on the wall.
+70 of beer.
+Take one down.
+Pass it around.
+69 bootles of beer on the wall.
+
+69 bootles of beer on the wall.
+69 of beer.
+Take one down.
+Pass it around.
+68 bootles of beer on the wall.
+
+68 bootles of beer on the wall.
+68 of beer.
+Take one down.
+Pass it around.
+67 bootles of beer on the wall.
+
+67 bootles of beer on the wall.
+67 of beer.
+Take one down.
+Pass it around.
+66 bootles of beer on the wall.
+
+66 bootles of beer on the wall.
+66 of beer.
+Take one down.
+Pass it around.
+65 bootles of beer on the wall.
+
+65 bootles of beer on the wall.
+65 of beer.
+Take one down.
+Pass it around.
+64 bootles of beer on the wall.
+
+64 bootles of beer on the wall.
+64 of beer.
+Take one down.
+Pass it around.
+63 bootles of beer on the wall.
+
+63 bootles of beer on the wall.
+63 of beer.
+Take one down.
+Pass it around.
+62 bootles of beer on the wall.
+
+62 bootles of beer on the wall.
+62 of beer.
+Take one down.
+Pass it around.
+61 bootles of beer on the wall.
+
+61 bootles of beer on the wall.
+61 of beer.
+Take one down.
+Pass it around.
+60 bootles of beer on the wall.
+
+60 bootles of beer on the wall.
+60 of beer.
+Take one down.
+Pass it around.
+59 bootles of beer on the wall.
+
+59 bootles of beer on the wall.
+59 of beer.
+Take one down.
+Pass it around.
+58 bootles of beer on the wall.
+
+58 bootles of beer on the wall.
+58 of beer.
+Take one down.
+Pass it around.
+57 bootles of beer on the wall.
+
+57 bootles of beer on the wall.
+57 of beer.
+Take one down.
+Pass it around.
+56 bootles of beer on the wall.
+
+56 bootles of beer on the wall.
+56 of beer.
+Take one down.
+Pass it around.
+55 bootles of beer on the wall.
+
+55 bootles of beer on the wall.
+55 of beer.
+Take one down.
+Pass it around.
+54 bootles of beer on the wall.
+
+54 bootles of beer on the wall.
+54 of beer.
+Take one down.
+Pass it around.
+53 bootles of beer on the wall.
+
+53 bootles of beer on the wall.
+53 of beer.
+Take one down.
+Pass it around.
+52 bootles of beer on the wall.
+
+52 bootles of beer on the wall.
+52 of beer.
+Take one down.
+Pass it around.
+51 bootles of beer on the wall.
+
+51 bootles of beer on the wall.
+51 of beer.
+Take one down.
+Pass it around.
+50 bootles of beer on the wall.
+
+50 bootles of beer on the wall.
+50 of beer.
+Take one down.
+Pass it around.
+49 bootles of beer on the wall.
+
+49 bootles of beer on the wall.
+49 of beer.
+Take one down.
+Pass it around.
+48 bootles of beer on the wall.
+
+48 bootles of beer on the wall.
+48 of beer.
+Take one down.
+Pass it around.
+47 bootles of beer on the wall.
+
+47 bootles of beer on the wall.
+47 of beer.
+Take one down.
+Pass it around.
+46 bootles of beer on the wall.
+
+46 bootles of beer on the wall.
+46 of beer.
+Take one down.
+Pass it around.
+45 bootles of beer on the wall.
+
+45 bootles of beer on the wall.
+45 of beer.
+Take one down.
+Pass it around.
+44 bootles of beer on the wall.
+
+44 bootles of beer on the wall.
+44 of beer.
+Take one down.
+Pass it around.
+43 bootles of beer on the wall.
+
+43 bootles of beer on the wall.
+43 of beer.
+Take one down.
+Pass it around.
+42 bootles of beer on the wall.
+
+42 bootles of beer on the wall.
+42 of beer.
+Take one down.
+Pass it around.
+41 bootles of beer on the wall.
+
+41 bootles of beer on the wall.
+41 of beer.
+Take one down.
+Pass it around.
+40 bootles of beer on the wall.
+
+40 bootles of beer on the wall.
+40 of beer.
+Take one down.
+Pass it around.
+39 bootles of beer on the wall.
+
+39 bootles of beer on the wall.
+39 of beer.
+Take one down.
+Pass it around.
+38 bootles of beer on the wall.
+
+38 bootles of beer on the wall.
+38 of beer.
+Take one down.
+Pass it around.
+37 bootles of beer on the wall.
+
+37 bootles of beer on the wall.
+37 of beer.
+Take one down.
+Pass it around.
+36 bootles of beer on the wall.
+
+36 bootles of beer on the wall.
+36 of beer.
+Take one down.
+Pass it around.
+35 bootles of beer on the wall.
+
+35 bootles of beer on the wall.
+35 of beer.
+Take one down.
+Pass it around.
+34 bootles of beer on the wall.
+
+34 bootles of beer on the wall.
+34 of beer.
+Take one down.
+Pass it around.
+33 bootles of beer on the wall.
+
+33 bootles of beer on the wall.
+33 of beer.
+Take one down.
+Pass it around.
+32 bootles of beer on the wall.
+
+32 bootles of beer on the wall.
+32 of beer.
+Take one down.
+Pass it around.
+31 bootles of beer on the wall.
+
+31 bootles of beer on the wall.
+31 of beer.
+Take one down.
+Pass it around.
+30 bootles of beer on the wall.
+
+30 bootles of beer on the wall.
+30 of beer.
+Take one down.
+Pass it around.
+29 bootles of beer on the wall.
+
+29 bootles of beer on the wall.
+29 of beer.
+Take one down.
+Pass it around.
+28 bootles of beer on the wall.
+
+28 bootles of beer on the wall.
+28 of beer.
+Take one down.
+Pass it around.
+27 bootles of beer on the wall.
+
+27 bootles of beer on the wall.
+27 of beer.
+Take one down.
+Pass it around.
+26 bootles of beer on the wall.
+
+26 bootles of beer on the wall.
+26 of beer.
+Take one down.
+Pass it around.
+25 bootles of beer on the wall.
+
+25 bootles of beer on the wall.
+25 of beer.
+Take one down.
+Pass it around.
+24 bootles of beer on the wall.
+
+24 bootles of beer on the wall.
+24 of beer.
+Take one down.
+Pass it around.
+23 bootles of beer on the wall.
+
+23 bootles of beer on the wall.
+23 of beer.
+Take one down.
+Pass it around.
+22 bootles of beer on the wall.
+
+22 bootles of beer on the wall.
+22 of beer.
+Take one down.
+Pass it around.
+21 bootles of beer on the wall.
+
+21 bootles of beer on the wall.
+21 of beer.
+Take one down.
+Pass it around.
+20 bootles of beer on the wall.
+
+20 bootles of beer on the wall.
+20 of beer.
+Take one down.
+Pass it around.
+19 bootles of beer on the wall.
+
+19 bootles of beer on the wall.
+19 of beer.
+Take one down.
+Pass it around.
+18 bootles of beer on the wall.
+
+18 bootles of beer on the wall.
+18 of beer.
+Take one down.
+Pass it around.
+17 bootles of beer on the wall.
+
+17 bootles of beer on the wall.
+17 of beer.
+Take one down.
+Pass it around.
+16 bootles of beer on the wall.
+
+16 bootles of beer on the wall.
+16 of beer.
+Take one down.
+Pass it around.
+15 bootles of beer on the wall.
+
+15 bootles of beer on the wall.
+15 of beer.
+Take one down.
+Pass it around.
+14 bootles of beer on the wall.
+
+14 bootles of beer on the wall.
+14 of beer.
+Take one down.
+Pass it around.
+13 bootles of beer on the wall.
+
+13 bootles of beer on the wall.
+13 of beer.
+Take one down.
+Pass it around.
+12 bootles of beer on the wall.
+
+12 bootles of beer on the wall.
+12 of beer.
+Take one down.
+Pass it around.
+11 bootles of beer on the wall.
+
+11 bootles of beer on the wall.
+11 of beer.
+Take one down.
+Pass it around.
+10 bootles of beer on the wall.
+
+10 bootles of beer on the wall.
+10 of beer.
+Take one down.
+Pass it around.
+9 bootles of beer on the wall.
+
+9 bootles of beer on the wall.
+9 of beer.
+Take one down.
+Pass it around.
+8 bootles of beer on the wall.
+
+8 bootles of beer on the wall.
+8 of beer.
+Take one down.
+Pass it around.
+7 bootles of beer on the wall.
+
+7 bootles of beer on the wall.
+7 of beer.
+Take one down.
+Pass it around.
+6 bootles of beer on the wall.
+
+6 bootles of beer on the wall.
+6 of beer.
+Take one down.
+Pass it around.
+5 bootles of beer on the wall.
+
+5 bootles of beer on the wall.
+5 of beer.
+Take one down.
+Pass it around.
+4 bootles of beer on the wall.
+
+4 bootles of beer on the wall.
+4 of beer.
+Take one down.
+Pass it around.
+3 bootles of beer on the wall.
+
+3 bootles of beer on the wall.
+3 of beer.
+Take one down.
+Pass it around.
+2 bootles of beer on the wall.
+
+2 bootles of beer on the wall.
+2 of beer.
+Take one down.
+Pass it around.
+1 bootle of beer on the wall.
+
+1 bootle of beer on the wall.
+1 of beer.
+Take one down.
+Pass it around.
+No more bootles of beer on the wall.
+
+>>> 
