@@ -15,7 +15,12 @@ class Ship:
         return self.departure
     def get_pers(self):
         return self.personnel
-    
+    def input_new(self):
+        self.name = self.words(str(input("input new name ")))
+        self.registration = self.words(str(input("input new registration ")))
+        self.freight = self.numbs(str(input("input new freight ")))
+        self.departure = self.words(str(input("input new departure ")))
+        self.personnel = self.numbsint(str(input("input new personnel ")))
     def __str__(self):
         return '{} {} {} {} {}'.format(self.name, self.registration,self.freight,self.departure,self.personnel)
     def words(self, word):
