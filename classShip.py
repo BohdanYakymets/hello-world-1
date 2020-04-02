@@ -62,15 +62,7 @@ class Ship:
           return getattr(self, "personnel")
         else:
             print("no such attribute!")
-    def __copy__(self):
-        my_copy = self
-        return my_copy
-    def input_new(self):
-        self.name = self.words(str(input("input new name ")))
-        self.registration = self.words(str(input("input new registration ")))
-        self.freight = self.numbs(str(input("input new freight ")))
-        self.departure = self.words(str(input("input new departure ")))
-        self.personnel = self.numbsint(str(input("input new personnel ")))
+   
     
     
    
