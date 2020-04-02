@@ -63,7 +63,12 @@ class Ship:
         else:
             print("no such attribute!")
    
-    
+     def input_new(self):
+        self.name = self.words(str(input("input new name ")))
+        self.registration = self.words(str(input("input new registration ")))
+        self.freight = self.numbs(str(input("input new freight ")))
+        self.departure = self.words(str(input("input new departure ")))
+        self.personnel = self.numbsint(str(input("input new personnel ")))
     
    
         
